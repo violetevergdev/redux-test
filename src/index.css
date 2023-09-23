@@ -1,0 +1,27 @@
+/** @format */
+body {
+  color: #fff;
+}
+
+button {
+  background-color: #e08594;
+  border: none;
+  outline: none;
+  color: #fff;
+  padding: 4px 5px;
+  border-radius: 5px;
+  margin-top: 5px;
+  cursor: pointer;
+  transition: background-color 0.4s ease-in-out;
+}
+
+button:hover {
+  background-color: #b87d87;
+}
+
+.icon {
+  fill: #e08594;
+}
+.favoritesSum {
+  color: #000;
+}
